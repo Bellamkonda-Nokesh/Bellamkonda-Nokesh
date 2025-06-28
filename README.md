@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bellamkonda Nokesh | MCA Student at Alliance University | Specializing in Generative AI | Aspiring Software Engineer
+Bellamkonda Nokesh | MCA Student at Alliance University | Specializing in Data Science | Aspiring Software Engineer
 
 
 <h3 align="left">My Online Profiles:</h3>
