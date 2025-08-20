@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Nokesh Bellamkonda!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=MCA+Student+%7C+Data+Science+Enthusiast;Software+Engineer+in+the+Making;Problem+Solver+%7C+Code+Craftsman;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=-MCA+Student+%7C+Data+Science+Enthusiast;Software+Engineer+in+the+Making;Problem+Solver+%7C+Code+Craftsman;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
 </div>
 
 <p align="center">
